@@ -1,6 +1,6 @@
  👋 Hi, I’m Kiana/ @Kiana-ko
  
-- I’m interested in: ⬇️
+ I’m interested in: ⬇️
 
  I.   Photogrphy
  
