@@ -1,4 +1,4 @@
- 👋 Hi, I’m Kiana and I'm 21 Y/O!
+ 👋🏻 Hi, I’m Kiana and I'm 21 Y/O!
  
  I’m interested in: ⬇️
 
