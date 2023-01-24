@@ -2,13 +2,13 @@
  
  I’m interested in: ⬇️
 
- I.   Photogrphy
+ I.   Photogrphy 📸
  
- II.  Tech
+ II.  Tech 💻
  
- III. Coding 
+ III. Coding 👩🏻‍💻
  
- IV.  Coffee
+ IV.  Coffee ☕️
  
  And ... finally playing Electric guitar
 <!---
