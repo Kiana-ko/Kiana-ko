@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/@kianaa_ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kianaa_ko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kiana-kooshesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiana-kooshesh" height="30" width="40" /></a>
-<a href="https://instagram.com/@kianaa_ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kianaa_ko" height="30" width="40" /></a>
+<a href="https://instagram.com/withkianaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="withkianaa" height="30" width="40" /></a>
 <a href="https://www.behance.net/kianakooshesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kianakooshesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/awesomekiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awesomekiana" height="30" width="40" /></a>
 </p>
