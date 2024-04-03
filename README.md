@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, I'm Kiana</h1>
-<h3 align="center">I'm a Junior Backend Developer who is currently studying in the Software Engineering Technician program.</h3>
+<h3 align="left">I'm a Junior Backend Developer who is currently studying in the Software Engineering Technician program.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiana-ko" alt="kiana-ko" /></a> </p>
 
