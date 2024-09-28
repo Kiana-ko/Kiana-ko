@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋🏻, I'm Kiana</h1>
 <h3 align="left">I'm a Junior Backend Developer who is currently studying in the Software Engineering Technician program. I am planning on pursuing a career in Data Science while enjoying Game-Dev as a side hobby. </h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiana-ko" alt="kiana-ko" /></a> </p>
 
 <h3 align="left">📫 Connect with me:</h3>
@@ -12,7 +13,7 @@
     <a href="https://www.leetcode.com/awesomekiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awesomekiana" height="30" width="40" /></a>
 </p>
 
----
+
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
@@ -50,6 +51,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a>
 </p>
+
 
 
 <h3 align="left">📊 GitHub Stats</h3>
