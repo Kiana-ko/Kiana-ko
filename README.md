@@ -56,12 +56,20 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
+
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border-right: 1px solid #ddd; padding: 10px; width: 50%;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" /></td>
-    <td style="padding: 10px; width: 50%;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" /></td>
+    <td style="border-right: 1px solid #ddd; padding: 10px; width: 50%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" />
+    </td>
+    <td style="padding: 10px; width: 50%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 10px; text-align: left;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" />
+    </td>
   </tr>
 </table>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" /></p>
 
