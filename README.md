@@ -55,12 +55,11 @@
     </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" style="display: inline-block; width: 48%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" style="display: inline-block; width: 48%;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" width="45%"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" /></p>
 
 
