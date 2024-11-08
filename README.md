@@ -57,19 +57,12 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border-right: 1px solid #ddd; padding: 10px; width: 50%;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" />
-    </td>
-    <td style="padding: 10px; width: 50%;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 10px; text-align: left;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" style="width: 45%;"/>
+  <span style="display: inline-block; width: 1px; height: 100px; background-color: #ddd; margin: 0 10px;"></span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" style="width: 45%;"/>
+</div>
 
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" />
+</div>
