@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, I'm Kiana</h1>
-<h3 align="left">I'm a Junior Backend Developer who is currently studying in the Software Engineering Technician program. I am planning on pursuing a career in Data Science while enjoying Game-Dev as a side hobby. </h3>
+<h3 align="left"> I'm a Junior Backend Developer and Software Engineering Technology student, aiming for a career in Data Engineering with an interest in Data Science. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiana-ko" alt="kiana-ko" /></a> </p>
 
@@ -57,5 +57,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiana-ko&show_icons=true&locale=en&layout=compact" alt="kiana-ko" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiana-ko&show_icons=true&locale=en" alt="kiana-ko" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiana-ko&" alt="kiana-ko" /></p>
+
+
