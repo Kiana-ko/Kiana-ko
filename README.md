@@ -76,7 +76,7 @@
 </p>
 
 
-
+<br>
 <h3 align="center">📫 Connect with me:</h3>
 
 <p align="center">
@@ -98,7 +98,7 @@
 </p>
 
 
-
+<br>
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
