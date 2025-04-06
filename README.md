@@ -13,9 +13,9 @@
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
 
-  <!-- 🖥️ OS & Shell -->
+<!-- 🖥️ OS & Shell -->
+<p align="left">
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   </a>
@@ -28,8 +28,10 @@
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- 🐍 Python & DS Libraries -->
+<!-- 🐍 Python & Data Science Libraries -->
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -45,8 +47,10 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- 🧠 Backend & DB -->
+<!-- 🧠 Backend & DB -->
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
@@ -65,8 +69,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- 🛠️ Tools -->
+<!-- 🛠️ Tools -->
+<p align="left">
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
@@ -79,13 +85,15 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- 🎨 Frontend -->
+<!-- 🎨 Frontend -->
+<p align="left">
   <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-
 </p>
+
 
 
 
