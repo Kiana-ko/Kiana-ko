@@ -10,7 +10,7 @@
 <h3 align="left"></h3>
 <p align="left">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Kiana-ko&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" 
+    src="https://github-profile-trophy.vercel.app/?username=Kiana-ko&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" 
     style="border: none; outline: none;" 
   />
 </p>
@@ -106,11 +106,12 @@
 ##
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kiana-ko&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" 
+    src="https://github-readme-stats.vercel.app/api?username=Kiana-ko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" 
     width="450"
   />
+  <img width="15" />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiana-ko&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiana-ko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
     width="350"
   />
 </p>
