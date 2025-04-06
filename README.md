@@ -11,7 +11,7 @@
 
 
 <br>
-<h3 align="center" style="margin-top: 50px;">🛠️ Some Tools I Like Working With</h3>
+<h3 align="center">🛠️ Some Tools I Like Working With</h3>
 
 <!-- Row 1: OS, Terminal, Languages, and System Tools -->
 <p align="center" style="margin-bottom: 15px;">
@@ -76,7 +76,7 @@
 </p>
 
 
-<br>
+
 <h3 align="center">📫 Connect with me:</h3>
 
 <p align="center">
@@ -99,7 +99,6 @@
 
 
 
-<br>
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -118,7 +117,6 @@
     />
   </a>
 </p>
-
 
 
 
