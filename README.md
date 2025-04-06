@@ -11,7 +11,7 @@
 
 
 <br>
-<h3 align="center">🛠️ Some Tools I Like Working With</h3>
+<h3 align="center">🛠️ Some of the Tools I Like Working With:</h3>
 
 <!-- Row 1: OS, Terminal, Languages, and System Tools -->
 <p align="center" style="margin-bottom: 15px;">
