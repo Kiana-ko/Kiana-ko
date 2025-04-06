@@ -1,104 +1,101 @@
-<h1 align="center">Hey 👋🏻, I'm Kiana</h1>
-<h3 align="left">I'm a Junior Backend Developer and Software Engineering Technology student, building my path toward a career in Data Engineering with an interest in Machine Learning. </h3>
+<h2 align="center"> Hi👋🏻, I'm Kiana</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiana-ko" alt="kiana-ko" /></a> </p>
-
+<h3 align="left">  Passionate about backend systems, data tooling, automation & low-level programming💡🖥️</h3>
 <ul align="left">
-  <li>🔭 I've been recently exploring backend, data engineering, and machine learning workflows — with a focus on databases and automation.</li>
-  <li>🌱 I'm currently learning tools like Docker, Rust, and foundational Machine Learning concepts to support my development path.</li>
+  <li>🔭 I've been recently exploring backend, data engineering, and machine learning workflows, frameworks and tools.</li>
+  <li>🌱 I'm currently learning tools like Docker, Rust, and foundational Machine Learning.</li>
 </ul>
 
 
 
-<br>
+<br><br>
+<h3 align="center">🧪 Some of my Favorite Data Science Libraries</h3>
+
+##
+<div align="center">
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+  </a>
+  <img width="12" />
+</div>
+
+
+<br><br>
 <h3 align="center">🛠️ Some of the Tools I Like Working With:</h3>
 
-<!-- Row 1: OS, Terminal, Languages, and System Tools -->
-<p align="center" style="margin-bottom: 15px;">
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-  </a>
-</p>
-
-<!-- Row 2: Data Science, Backend, Tools, Frameworks -->
+##
+<!-- Shields for systems, tools, languages -->
 <p align="center">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a>
+  <!-- OS & Terminals -->
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+  <!-- Languages & Backend -->
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  </br> <!-- For moving everything below to the next line -->
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 
-<br>
+
+<br><br>
 <h3 align="center">📫 Connect with me:</h3>
 
+##
+<!-- social medias:-->
 <p align="center">
  <a href="https://linkedin.com/in/kiana-kooshesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://twitter.com/kianaa_ko" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://instagram.com/withkianaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://www.behance.net/kianakooshesh" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
   <a href="https://www.leetcode.com/awesomekiana" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
 </p>
 
 
-<br>
+
+
+<!--
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -117,7 +114,30 @@
     />
   </a>
 </p>
+-->
 
+<br><br>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kiana-ko&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" 
+    width="445"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiana-ko&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    width="350"
+  />
+</p>
+
+
+
+
+<h3 align="center"></h3>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Kiana-ko&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" 
+    style="border: none; outline: none;" 
+  />
+</p>
 
 
 <!-- 
