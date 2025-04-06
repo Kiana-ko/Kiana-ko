@@ -17,7 +17,7 @@
 
 
 <br>
-<h3 align="center">🧪 Some of my Favorite Data Science Libraries</h3>
+<h3 align="center">🧪 Some of my Favorite Data Science Libraries:</h3>
 
 ##
 <div align="center">
@@ -53,7 +53,7 @@
 </div>
 
 
-<br>
+<br><br>
 <h3 align="center">🛠️ Some of the Tools I Like Working With:</h3>
 
 ##
@@ -101,7 +101,7 @@
 
 <br>
 <!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 
 ##
 <p align="center">
