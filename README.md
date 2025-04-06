@@ -61,7 +61,8 @@
   <!-- OS & Terminal -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/macOS-0A192F?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" height="35px"/>
+  <img src="https://img.shields.io/badge/Bash-1E2A38?logo=gnu-bash&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="35px"/>
