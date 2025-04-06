@@ -109,7 +109,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Kiana-ko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" 
     width="450"
   />
-  <img width="15" />
+  <img width="20" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiana-ko&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
     width="350"
