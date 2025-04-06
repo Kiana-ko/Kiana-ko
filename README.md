@@ -15,7 +15,7 @@
 <h3 align="left">💻 Languages and Tools:</h3>
 
 <!-- 🖥️ OS & Shell -->
-<p align="left">
+<p align="center">
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
   </a>
@@ -31,7 +31,7 @@
 </p>
 
 <!-- 🐍 Python & Data Science Libraries -->
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -56,7 +56,7 @@
 </p>
 
 <!-- 🧠 Backend & DB -->
-<p align="left">
+<p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
