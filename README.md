@@ -6,7 +6,6 @@
   <li>🌱 I'm currently learning C, DevOps fundamentals (CI/CD), and foundational Machine Learning.</li>
 </ul>
 
-##
 <!--
 <h3 align="left"></h3>
 <p align="left">
