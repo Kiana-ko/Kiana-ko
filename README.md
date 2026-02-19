@@ -104,9 +104,6 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats:</h3>
 
-<br>
-<h3 align="center">📊 GitHub Stats:</h3>
-
 ##
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kiana-ko&theme=rust-ferris-dark&hide_border=true" width="700" />
