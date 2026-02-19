@@ -7,13 +7,14 @@
 </ul>
 
 ##
+<!--
 <h3 align="left"></h3>
 <p align="left">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Kiana-ko&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" 
     style="border: none; outline: none;" 
   />
-</p>
+</p> -->
 
 
 <br>
