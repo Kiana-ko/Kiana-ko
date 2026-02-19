@@ -17,7 +17,7 @@
 </p> -->
 
 
-<br>
+
 <h3 align="center">🧪 Some of my Favorite Data Science Libraries:</h3>
 
 ##
