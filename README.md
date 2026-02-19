@@ -76,6 +76,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="35px"/>
 </p>
 
 
