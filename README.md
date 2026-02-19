@@ -3,7 +3,7 @@
 <h3 align="left">  Passionate about backend systems, data tooling, automation & low-level programming💡🖥️</h3>
 <ul align="left">
   <li>🔭 I've been recently exploring backend, data engineering, and machine learning workflows, frameworks and tools.</li>
-  <li>🌱 I'm currently learning tools like Docker, Rust, and foundational Machine Learning.</li>
+  <li>🌱 I'm currently learning C, DevOps fundamentals (CI/CD), Rust, and foundational Machine Learning.</li>
 </ul>
 
 ##
