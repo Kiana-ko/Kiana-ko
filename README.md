@@ -58,25 +58,25 @@
 ##
 <p align="center">
   <!-- OS & Terminal -->
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/macOS-0A192F?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" height="35px"/>
   <img src="https://img.shields.io/badge/Bash-1E2A38?logo=gnu-bash&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="35px"/>
   </br> <!-- For moving everything below to the next line -->
  
   <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/NPM-2E7D32?logo=npm&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="35px"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35px"/>
 </p>
 
 
