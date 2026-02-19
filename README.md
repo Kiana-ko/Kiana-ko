@@ -64,8 +64,9 @@
   <img src="https://img.shields.io/badge/macOS-0A192F?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" height="35px"/>
   <img src="https://img.shields.io/badge/Bash-1E2A38?logo=gnu-bash&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="35px"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35px"/>
   </br> <!-- For moving everything below to the next line -->
  
   <!-- Databases & Tools -->
@@ -76,7 +77,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="35px"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="35px"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35px"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35px"/>
+  <img src="https://img.shields.io/badge/SQL-66B2FF?style=for-the-badge&logo=postgresql&logoColor=white" height="35px"/>
 </p>
 
 
