@@ -110,6 +110,13 @@
   <img src="https://streak-stats.demolab.com?user=kiana-ko&theme=rust-ferris-dark&hide_border=true" width="700" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiana-ko&layout=compact&theme=rust-ferris-dark&hide_border=true" 
+    width="450"
+  />
+</p>
+
 <!--
 <p align="center">
   <img 
