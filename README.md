@@ -112,7 +112,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiana-ko&layout=compact&card_width=700&langs_count=5&hide=html,css&bg_color=000000&title_color=ff8c00&text_color=ffa500&border_color=ff8c00" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiana-ko&layout=compact&card_width=700&langs_count=8&hide=html,css&bg_color=000000&title_color=ff8c00&text_color=ffa500&border_color=ff8c00" 
     alt="Top Languages"
   />
 </p>
