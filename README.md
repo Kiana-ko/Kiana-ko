@@ -110,9 +110,10 @@
   <img src="https://streak-stats.demolab.com?user=kiana-ko&theme=rust-ferris-dark&hide_border=true" width="700" />
 </p>
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiana-ko&layout=compact&card_width=700&langs_count=8&hide=html,css&bg_color=000000&title_color=ff8c00&text_color=ffa500&border_color=ff8c00" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiana-ko&layout=compact&card_width=700&langs_count=8&hide=html,css,c%23&bg_color=000000&title_color=ff8c00&text_color=ffa500&border_color=ff8c00" 
     alt="Top Languages"
   />
 </p>
